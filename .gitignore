@@ -47,3 +47,5 @@ app.*.map.json
 # FVM Version Cache
 .fvm/
 .vscode/
+android/app/google-services.json
+firebase.json
