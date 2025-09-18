@@ -14,7 +14,7 @@ import '../../translations/translation.dart';
 import '../../widgets/widgets.dart';
 import '../loadingPage/loading.dart';
 import '../login/login.dart';
-import '../noInternet/noInternet.dart';
+import 'package:flutter_user/pages/noInternet/nointernet.dart';
 import 'booking_confirmation.dart';
 import 'map_page.dart';
 import 'package:flutter_map/flutter_map.dart' as fm;

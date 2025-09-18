@@ -6,7 +6,7 @@ import '../../styles/styles.dart';
 import '../../translations/translation.dart';
 import '../../widgets/widgets.dart';
 import '../loadingPage/loading.dart';
-import '../noInternet/noInternet.dart';
+import 'package:flutter_user/pages/noInternet/nointernet.dart';
 
 class Favorite extends StatefulWidget {
   const Favorite({super.key});

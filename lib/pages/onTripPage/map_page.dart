@@ -17,7 +17,7 @@ import '../../functions/geohash.dart';
 import '../navDrawer/nav_drawer.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import '../noInternet/noInternet.dart';
+import 'package:flutter_user/pages/noInternet/nointernet.dart';
 import 'package:location/location.dart';
 import '../../functions/functions.dart';
 import '../../functions/notifications.dart';

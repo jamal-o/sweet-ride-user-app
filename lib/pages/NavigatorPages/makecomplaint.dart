@@ -7,7 +7,7 @@ import '../../functions/functions.dart';
 import '../../styles/styles.dart';
 import '../../translations/translation.dart';
 import '../../widgets/widgets.dart';
-import '../noInternet/noInternet.dart';
+import 'package:flutter_user/pages/noInternet/nointernet.dart';
 
 class MakeComplaint extends StatefulWidget {
   const MakeComplaint({super.key});

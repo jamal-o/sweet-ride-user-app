@@ -30,7 +30,7 @@ import '../NavigatorPages/pickcontacts.dart';
 import '../chatPage/chat_page.dart';
 import '../loadingPage/loading.dart';
 import '../login/login.dart';
-import '../noInternet/noInternet.dart';
+import 'package:flutter_user/pages/noInternet/nointernet.dart';
 import 'choosegoods.dart';
 import 'drop_loc_select.dart';
 import 'invoice.dart';

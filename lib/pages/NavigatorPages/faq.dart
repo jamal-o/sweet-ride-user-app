@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_user/pages/login/login.dart';
+import 'package:flutter_user/pages/noInternet/nointernet.dart';
 import 'package:flutter_user/widgets/widgets.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:location/location.dart';
@@ -7,7 +8,7 @@ import '../../functions/functions.dart';
 import '../../styles/styles.dart';
 import '../../translations/translation.dart';
 import '../loadingPage/loading.dart';
-import '../noInternet/noInternet.dart';
+
 import '../onTripPage/map_page.dart';
 
 class Faq extends StatefulWidget {
